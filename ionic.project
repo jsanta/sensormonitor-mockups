@@ -1,4 +1,5 @@
 {
   "name": "sensormonitor-mockups",
-  "app_id": "4c305726"
+  "app_id": "4c305726",
+  "defaultBrowser": "chromium-browser"
 }
